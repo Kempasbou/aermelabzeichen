@@ -28,12 +28,15 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 
 1. **Ablesen**: Aufschrift (Ortsname, ggf. „Freiwillige Feuerwehr …“, Landkreis) lesen.
 2. **Wappen beschreiben**: Farben, Teilung, Figuren.
-3. **Gemeinde bestimmen**: Bei gleichnamigen Orten (z. B. mehrere „Neustadt“, „Altdorf“, „Kirchberg“) entscheidet das Wappen, ggf. der Landkreis auf dem Abzeichen. Wappen im Zweifel per Websuche gegenprüfen (Wikipedia-Artikel der Gemeinde). Wenn es nicht eindeutig ist: die Kandidaten nennen und nachfragen, nicht raten.
+3. **Gemeinde bestimmen**: Bei gleichnamigen Orten (z. B. mehrere „Neustadt“, „Altdorf“, „Kirchberg“) entscheidet das Wappen, ggf. der Landkreis auf dem Abzeichen. Wappen im Zweifel per Websuche gegenprüfen (Wikipedia-Artikel der Gemeinde, Begriffsklärungsseite für gleichnamige Orte).
+   - **Immer festlegen**: Auch wenn es mehrere Kandidaten gibt, den wahrscheinlichsten Ort benennen (Bundesland + Regierungsbezirk) – nicht offen lassen, nicht nur Kandidaten aufzählen. Unsicherheit wird mit „vermutlich“ gekennzeichnet, nicht mit „unklar“.
+   - **Einordnung erläutern**: Zu jeder Festlegung, die nicht offensichtlich ist, kurz begründen, woran sie hängt – Wappen (Farben, Figuren, typische Motive wie Rauten/Pfälzer Löwe), Abzeichenstil (bayerischer Stil), Bezeichnung („Stadt“, „Markt“), frühere Gemeindezugehörigkeit – und die verworfenen gleichnamigen Orte mit Bundesland/Bezirk nennen.
 4. **Abgleich mit `sammlung.csv`**: gleiche Gemeinde **und** passendes Wappen/Ortsteil = vorhanden.
 5. **Antwort** – kurz, in dieser Form:
    - ✅ **Schon vorhanden** – Gemeinde, Landkreis, Regierungsbezirk/Bundesland (Nr. `id`, bisher `anzahl`×)
    - 🆕 **Neu** – Gemeinde, Landkreis, Regierungsbezirk/Bundesland
-   - ❓ **Unklar** – Kandidaten mit Unterscheidungsmerkmal
+   - ⚠️ **Vermutlich** – wahrscheinlichster Ort mit Bundesland/Regierungsbezirk, dazu die Begründung und die verworfenen Alternativen
+   - Bei mehreren Abzeichen auf einem Foto: Reihenfolge von links oben nach rechts unten, nummeriert, jeweils mit Bundesland und Regierungsbezirk.
 6. **Eintragen**: Neue Abzeichen nur auf ausdrückliche Bestätigung („aufnehmen“, „ja, eintragen“) in die Liste schreiben und das Foto unter `fotos/` ablegen. Ein reiner Abgleich ändert nichts.
 
 ## Anzahl / Mehrfachstücke
