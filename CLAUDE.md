@@ -47,6 +47,12 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 - Ist ein Abzeichen schon vorhanden und Daniel sagt „aufnehmen“ bzw. „noch eins“, wird `anzahl` um die genannte Zahl (sonst 1) erhöht, keine neue Zeile.
 - Das bestehende Foto bleibt; ein neues Foto nur ersetzen, wenn Daniel es sagt.
 
+## Eingang (Fotos von der Webseite)
+
+- Über die Webseite (Repo `aermelabzeichen-app`) hochgeladene Fotos landen in `eingang/` als `JJJJ-MM-TT-HHMMSS-n.jpg`, eine optionale Bemerkung (z. B. Anzahl) als `…-bemerkung.txt` mit gleichem Zeitstempel.
+- Sagt Daniel „Eingang verarbeiten“, „neue Fotos eintragen“ o. ä., gilt das als Bestätigung: alle Fotos in `eingang/` wie Sammelfotos abarbeiten (Ablauf oben, Reihenfolge links oben → rechts unten), neue Abzeichen aufnehmen, vorhandene in `anzahl` erhöhen, Bemerkungen berücksichtigen. Sagt er nur „Eingang prüfen“, nur abgleichen und berichten.
+- Nach dem Eintragen jedes verarbeitete Foto mit `git mv` nach `fotos/sammelfotos/` verschieben (Bemerkung mit verschieben), damit `eingang/` leer ist. In `notiz` den Dateinamen des Sammelfotos angeben.
+
 ## Git
 
 - Eine Änderung pro Commit, Message auf Deutsch im Präsens (z. B. „Nimmt Abzeichen Altdorf b. Nürnberg auf“).
