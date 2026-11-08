@@ -54,7 +54,7 @@ id;gemeinde;ortsteil;landkreis;regierungsbezirk;bundesland;wappen;aufschrift;anz
 0053;Tröstau;;Wunsiedel i. Fichtelgebirge;Oberfranken;Bayern;Hämmer auf Rot-Weiß;Freiwillige Feuerwehr Tröstau;1;0053-troestau.jpg;2026-11-08;Sammelfoto 2
 0054;Grafenwöhr;Hütten;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;"weiß-blaue Rauten und goldener Löwe; blaues Abzeichen";Freiwillige Feuerwehr Hütten;1;0054-huetten.jpg;2026-11-08;"vermutlich; Alternativen: Hütten (Ahorntal), Hütten (Warmensteinach) – Oberfranken; Hütten (Oberstaufen) – Schwaben; Sammelfoto 2"
 0055;Kirchroth;Obermiethnach;Straubing-Bogen;Niederbayern;Bayern;Rauten mit rotem Schrägbalken;Freiwillige Feuerwehr Obermiethnach;1;0055-obermiethnach.jpg;2026-11-08;Sammelfoto 2
-0056;Trostberg;;Traunstein;Oberbayern;Bayern;Burg auf Grün;Freiwillige Feuerwehr Stadt Trostberg;1;0056-trostberg.jpg;2026-11-08;Sammelfoto 2
+0056;Trostberg;;Traunstein;Oberbayern;Bayern;Burg auf Grün;Freiwillige Feuerwehr Stadt Trostberg;2;0056-trostberg.jpg;2026-11-08;"Sammelfoto 2; +1 aus Sammelfoto 3"
 0057;Kaltenbrunn;;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;roter Brunnen auf Silber;Freiwillige Feuerwehr Markt Kaltenbrunn;1;0057-kaltenbrunn.jpg;2026-11-08;Sammelfoto 2
 0058;Glashütten;;Bayreuth;Oberfranken;Bayern;Löwe und Mauer, Schwarz-Silber;Freiwillige Feuerwehr Glashütten;1;0058-glashuetten.jpg;2026-11-08;"nicht Glashütten (Hessen); Sammelfoto 2"
 0059;Kösching;;Eichstätt;Oberbayern;Bayern;weiß-blaue Rauten und Baum;Freiwillige Feuerwehr Markt Kösching;1;0059-koesching.jpg;2026-11-08;Sammelfoto 2
@@ -67,3 +67,31 @@ id;gemeinde;ortsteil;landkreis;regierungsbezirk;bundesland;wappen;aufschrift;anz
 0066;Dietmannsried;Überbach;Oberallgäu;Schwaben;Bayern;weißer Pferdekopf auf Blau;Freiwillige Feuerwehr Überbach;1;0066-ueberbach.jpg;2026-11-08;"sicher – Wappen stimmt mit Wikipedia überein; einziges Überbach in Bayern; Sammelfoto 2"
 0067;Edermünde;;Schwalm-Eder-Kreis;Kassel;Hessen;"silberne Gabel mit Kleeblatt auf Rot; dunkelblaues ovales Abzeichen";Freiw. Feuerwehr Edermünde;1;0067-edermuende.jpg;2026-11-08;Sammelfoto 2
 0068;;;;;;"Hand füllt Blaulicht nach; rundes Abzeichen";Heute schon das Blaulichtwasser aufgefüllt?;1;0068-sonderabzeichen-blaulichtwasser.jpg;2026-11-08;"Sonderabzeichen ohne Ort (Spaßabzeichen); Sammelfoto 2"
+0069;Aschau i. Chiemgau;Sachrang;Rosenheim;Oberbayern;Bayern;schwarzer Adler über silberner Mauer auf Gold;Freiwillige Feuerwehr Sachrang;1;0069-sachrang.jpg;2026-11-08;Sammelfoto 3
+0070;Aying;Helfendorf;München;Oberbayern;Bayern;Gold-Blau gespalten mit Blatt und Kelch;Freiwillige Feuerwehr Helfendorf;1;0070-helfendorf.jpg;2026-11-08;Sammelfoto 3
+0071;Ruhpolding;;Traunstein;Oberbayern;Bayern;Zweige über Kirche, Gold auf Rot;Freiwillige Feuerwehr Ruhpolding;1;0071-ruhpolding.jpg;2026-11-08;Sammelfoto 3
+0072;Saaldorf-Surheim;Saaldorf;Berchtesgadener Land;Oberbayern;Bayern;Salzfass/Räder über Mauer, Blau-Rot-Silber;Freiwillige Feuerwehr Saaldorf;1;0072-saaldorf.jpg;2026-11-08;Sammelfoto 3
+0073;Raubling;Pfraundorf;Rosenheim;Oberbayern;Bayern;Schiff (Plätte) über grüner Distel auf Gold/Blau;Freiwillige Feuerwehr Pfraundorf;1;0073-pfraundorf.jpg;2026-11-08;"vermutlich – Schiff passt zur Lage am Inn, Foto stammt aus dem Rosenheim-/Chiemgau-Bestand; Alternative Pfraundorf (Kinding, Lkr. Eichstätt) liegt ebenfalls in Oberbayern; Sammelfoto 3"
+0074;Großostheim;;Aschaffenburg;Unterfranken;Bayern;schwarzer Steinbock auf Gold, silberne Rosen auf Schwarz;Freiwillige Feuerwehr Markt-Großostheim;1;0074-grossostheim.jpg;2026-11-08;Sammelfoto 3
+0075;Grafenau;Schlag;Freyung-Grafenau;Niederbayern;Bayern;silberner Bär auf Blau;Freiwillige Feuerwehr Schlag;1;0075-schlag.jpg;2026-11-08;"vermutlich – einziges bekanntes Schlag in Bayern mit eigener Feuerwehr (Stadtteil von Grafenau); Sammelfoto 3"
+0076;Siegsdorf;Hammer;Traunstein;Oberbayern;Bayern;schwarzer Hammer auf Gold, goldener Baum auf Schwarz;Freiwillige Feuerwehr Hammer;1;0076-hammer.jpg;2026-11-08;"vermutlich – Hammer als Figur, Foto aus dem Traunsteiner Bestand (Eisenärzt, Ruhpolding); Alternativen: Hammer (Vohenstrauß), Hammer (Waldmünchen) – Oberpfalz; Hammer (Weidenberg) – Oberfranken; Sammelfoto 3"
+0077;Ungerhausen;;Unterallgäu;Schwaben;Bayern;schwarzer Adler und goldene Lilie, darunter drei Kugeln;Freiwillige Feuerwehr Ungerhausen;1;0077-ungerhausen.jpg;2026-11-08;Sammelfoto 3
+0078;Flintsbach a. Inn;;Rosenheim;Oberbayern;Bayern;Falke über Burg (Falkenstein);Freiwillige Feuerwehr Flintsbach;1;0078-flintsbach-a-inn.jpg;2026-11-08;"Falke = Burg Falkenstein in Flintsbach a. Inn; nicht Flintsbach (Winzer, Niederbayern); Sammelfoto 3"
+0079;Eiselfing;Bachmehring;Rosenheim;Oberbayern;Bayern;weiß-blaue Rauten über goldenem Rad;Freiwillige Feuerwehr Bachmehring;1;0079-bachmehring.jpg;2026-11-08;Sammelfoto 3
+0080;Kaufbeuren;Hirschzell;kreisfreie Stadt;Schwaben;Bayern;drei goldene Kugeln auf Schrägbalken, grüner Baum;Freiwillige Feuerwehr Hirschzell;1;0080-hirschzell.jpg;2026-11-08;Sammelfoto 3
+0081;Siegsdorf;Eisenärzt;Traunstein;Oberbayern;Bayern;Schlägel und Eisen über grünem Berg mit Edelweiß;Freiwillige Feuerwehr Eisenärzt;1;0081-eisenaerzt.jpg;2026-11-08;Sammelfoto 3
+0082;Bad Kötzting;Weißenregen;Cham;Oberpfalz;Bayern;Wallfahrtskirche Weißenregen;Freiwillige Feuerwehr Weissenregen;1;0082-weissenregen.jpg;2026-11-08;Sammelfoto 3
+0083;Mansfeld;Großörner;Mansfeld-Südharz;;Sachsen-Anhalt;"Feuerwehrhelm mit Beil und Strahlrohr (kein Ortswappen); Wappenschild-Form";Freiwillige Feuerwehr Großörner;1;0083-grossoerner.jpg;2026-11-08;"einziges Großörner; Sammelfoto 3"
+0084;Murnau a. Staffelsee;;Garmisch-Partenkirchen;Oberbayern;Bayern;grüner Lindwurm auf Silber;Freiwillige Feuerwehr Murnau;1;0084-murnau-a-staffelsee.jpg;2026-11-08;Sammelfoto 3
+0085;Hemmersheim;Rodheim;Neustadt a. d. Aisch-Bad Windsheim;Mittelfranken;Bayern;geflügelter Löwe mit Nimbus, darunter Schwarz-Silber geviert (Zollern);Freiwillige Feuerwehr Rodheim;1;0085-rodheim.jpg;2026-11-08;"vermutlich – Schwarz-Silber (Zollern/Ansbach) und bayerischer Abzeichenstil sprechen für Mittelfranken; verworfen: Rodheim v. d. Höhe und Rodheim-Bieber (Hessen), deren Wappen nicht passen; Sammelfoto 3"
+0086;Großweil;;Garmisch-Partenkirchen;Oberbayern;Bayern;Gebäude über Wellen und gekreuzten Werkzeugen;Freiwillige Feuerwehr Grossweil;1;0086-grossweil.jpg;2026-11-08;Sammelfoto 3
+0087;Samerberg;Steinkirchen;Rosenheim;Oberbayern;Bayern;weiß-blaue Rauten, goldenes Hufeisen auf Blau;Freiwillige Feuerwehr Steinkirchen/Samerberg;1;0087-steinkirchen.jpg;2026-11-08;Sammelfoto 3
+0088;Kaisheim;Bergstetten;Donau-Ries;Schwaben;Bayern;rot-silberner Schrägbalken, Ross und Buchstabe auf Blau;Freiwillige Feuerwehr Bergstetten;1;0088-bergstetten.jpg;2026-11-08;Sammelfoto 3
+0089;Großkarolinenfeld;Tattenhausen;Rosenheim;Oberbayern;Bayern;silberne Tanne mit gekreuzten Pfeilen auf Blau;Freiwillige Feuerwehr Tattenhausen;1;0089-tattenhausen.jpg;2026-11-08;Sammelfoto 3
+0090;Taching a. See;;Traunstein;Oberbayern;Bayern;Wellen über Rot mit silberner Rose;Freiwillige Feuerwehr Taching a. See;1;0090-taching-a-see.jpg;2026-11-08;Sammelfoto 3
+0091;Geretsried;;Bad Tölz-Wolfratshausen;Oberbayern;Bayern;blauer Schrägfluss, grüne Tanne, Zahnrad;Freiwillige Feuerwehr Stadt Geretsried;1;0091-geretsried.jpg;2026-11-08;Sammelfoto 3
+0092;Brunn;;Regensburg;Oberpfalz;Bayern;silberner Brunnen auf Rot, goldene Lilie auf Schwarz, blau-silberne Spitze;Freiwillige Feuerwehr Brunn;1;0092-brunn.jpg;2026-11-08;"sicher – Wappen stimmt mit Brunn (Oberpfalz) überein; Sammelfoto 3"
+0093;Fridolfing;;Traunstein;Oberbayern;Bayern;schwarzer Löwe auf Gold über Wellen;Freiwillige Feuerwehr Fridolfing;1;0093-fridolfing.jpg;2026-11-08;Sammelfoto 3
+0094;Kaisheim;;Donau-Ries;Schwaben;Bayern;goldenes K mit Krone auf Blau;Freiwillige Feuerwehr Markt Kaisheim;1;0094-kaisheim.jpg;2026-11-08;Sammelfoto 3
+0095;Ismaning;;München;Oberbayern;Bayern;Mohrenkopf über weiß-schwarzen Rauten;Freiwillige Feuerwehr Ismaning;1;0095-ismaning.jpg;2026-11-08;Sammelfoto 3
+0096;Gangkofen;;Rottal-Inn;Niederbayern;Bayern;silberne Lilien auf Schwarz, weiß-blaue Rauten;Freiwillige Feuerwehr Markt Gangkofen;1;0096-gangkofen.jpg;2026-11-08;Sammelfoto 3
