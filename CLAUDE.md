@@ -19,6 +19,7 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 | `bundesland` | Bundesland; bei ausländischen Abzeichen das Land |
 | `wappen` | kurze Wappenbeschreibung (Farben, Figuren), damit gleichnamige Orte unterscheidbar sind |
 | `aufschrift` | Text auf dem Abzeichen, soweit lesbar |
+| `anzahl` | wie viele Exemplare vorhanden sind (Zahl, Standard 1) |
 | `foto` | Dateiname in `fotos/` |
 | `erfasst` | Datum der Aufnahme in die Liste (JJJJ-MM-TT) |
 | `notiz` | optional, z. B. „doppelt vorhanden“, „Sonderabzeichen“ |
@@ -30,10 +31,17 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 3. **Gemeinde bestimmen**: Bei gleichnamigen Orten (z. B. mehrere „Neustadt“, „Altdorf“, „Kirchberg“) entscheidet das Wappen, ggf. der Landkreis auf dem Abzeichen. Wappen im Zweifel per Websuche gegenprüfen (Wikipedia-Artikel der Gemeinde). Wenn es nicht eindeutig ist: die Kandidaten nennen und nachfragen, nicht raten.
 4. **Abgleich mit `sammlung.csv`**: gleiche Gemeinde **und** passendes Wappen/Ortsteil = vorhanden.
 5. **Antwort** – kurz, in dieser Form:
-   - ✅ **Schon vorhanden** – Gemeinde, Landkreis, Regierungsbezirk/Bundesland (Nr. `id`)
+   - ✅ **Schon vorhanden** – Gemeinde, Landkreis, Regierungsbezirk/Bundesland (Nr. `id`, bisher `anzahl`×)
    - 🆕 **Neu** – Gemeinde, Landkreis, Regierungsbezirk/Bundesland
    - ❓ **Unklar** – Kandidaten mit Unterscheidungsmerkmal
 6. **Eintragen**: Neue Abzeichen nur auf ausdrückliche Bestätigung („aufnehmen“, „ja, eintragen“) in die Liste schreiben und das Foto unter `fotos/` ablegen. Ein reiner Abgleich ändert nichts.
+
+## Anzahl / Mehrfachstücke
+
+- Pro Abzeichen gibt es **eine Zeile**; Mehrfachstücke stehen in `anzahl`, nicht als eigene Zeilen.
+- Daniel gibt die Anzahl beim Erfassen im Prompt mit (z. B. „3×“, „Anzahl 2“). Ohne Angabe gilt 1.
+- Ist ein Abzeichen schon vorhanden und Daniel sagt „aufnehmen“ bzw. „noch eins“, wird `anzahl` um die genannte Zahl (sonst 1) erhöht, keine neue Zeile.
+- Das bestehende Foto bleibt; ein neues Foto nur ersetzen, wenn Daniel es sagt.
 
 ## Git
 
