@@ -6,13 +6,14 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 
 - `sammlung.csv` – die Liste aller vorhandenen Abzeichen (Trennzeichen `;`, UTF-8)
 - `fotos/` – ein Foto pro Abzeichen, Dateiname = `id` aus der Liste, z. B. `fotos/0001-altdorf-lau.jpg`
+- `fotos/sammelfotos/` – Originalfotos mit mehreren Abzeichen; Einzelbilder werden daraus ausgeschnitten, die Herkunft steht in `notiz` („Sammelfoto 1“)
 
 ### Spalten in `sammlung.csv`
 
 | Spalte | Inhalt |
 |---|---|
 | `id` | laufende Nummer, 4-stellig (`0001`) |
-| `gemeinde` | Ortsname, wie auf dem Abzeichen |
+| `gemeinde` | politische Gemeinde (bei Ortsteilwehren die heutige Gemeinde, z. B. Vaterstetten für Baldham) |
 | `ortsteil` | falls das Abzeichen zu einer Ortsteilwehr gehört, sonst leer |
 | `landkreis` | Landkreis bzw. kreisfreie Stadt |
 | `regierungsbezirk` | nur in Bayern (Oberbayern, Niederbayern, Oberpfalz, Oberfranken, Mittelfranken, Unterfranken, Schwaben); in anderen Ländern leer oder der dortige Regierungsbezirk |

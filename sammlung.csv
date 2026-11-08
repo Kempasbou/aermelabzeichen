@@ -1,1 +1,69 @@
 id;gemeinde;ortsteil;landkreis;regierungsbezirk;bundesland;wappen;aufschrift;anzahl;foto;erfasst;notiz
+0001;Verbandsgemeinde Cochem-Land;;Cochem-Zell;;Rheinland-Pfalz;"Landeswappen Rheinland-Pfalz (Kreuz, Rad, Löwe) mit Krone; dunkelblaues Abzeichen";Freiwillige Feuerwehr VG Cochem-Land;1;0001-verbandsgemeinde-cochem-land.jpg;2026-11-08;Sammelfoto 1
+0002;Mittelsinn;;Main-Spessart;Unterfranken;Bayern;Fränkischer Rechen und Schrägkreuz, grüner Schildfuß;Freiwillige Feuerwehr Mittelsinn;1;0002-mittelsinn.jpg;2026-11-08;Sammelfoto 1
+0003;Wunsiedel;Holenbrunn;Wunsiedel i. Fichtelgebirge;Oberfranken;Bayern;Zahnrad, Fisch und Ähre auf Gold/Blau;Freiwillige Feuerwehr Holenbrunn;1;0003-holenbrunn.jpg;2026-11-08;Sammelfoto 1
+0004;Ziemetshausen;;Günzburg;Schwaben;Bayern;geviert, rote und weiße Felder mit Tierfiguren;Freiwillige Feuerwehr Ziemetshausen;1;0004-ziemetshausen.jpg;2026-11-08;Sammelfoto 1
+0005;Mistelgau;Obernsees;Bayreuth;Oberfranken;Bayern;gekreuzte Stäbe, Fass;Freiwillige Feuerwehr Obernsees;1;0005-obernsees.jpg;2026-11-08;Sammelfoto 1
+0006;Tuchenbach;;Fürth;Mittelfranken;Bayern;silberner Wellenbalken, Weberschiffchen auf Blau;Freiwillige Feuerwehr Tuchenbach;1;0006-tuchenbach.jpg;2026-11-08;Sammelfoto 1
+0007;Thierhaupten;;Augsburg;Schwaben;Bayern;oben weiß-blaue Rauten, unten goldenes Tier auf Blau;Freiwillige Feuerwehr Thierhaupten;1;0007-thierhaupten.jpg;2026-11-08;Sammelfoto 1
+0008;Fürstenzell;Bad Höhenstadt;Passau;Niederbayern;Bayern;Krone über Quelle/Becken, Rot-Gold;Freiwillige Feuerwehr Bad Hohenstadt;1;0008-bad-hoehenstadt.jpg;2026-11-08;Sammelfoto 1
+0009;Trabitz;Zessau-Weihersberg;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;Fisch über Turm, Rot-Silber;Freiwillige Feuerwehr Zessau-Weihersberg;1;0009-zessau-weihersberg.jpg;2026-11-08;Sammelfoto 1
+0010;Kirchhain;Betziesdorf;Marburg-Biedenkopf;Gießen;Hessen;"Ortsansicht mit Kirche, Jahreszahl 1882; rundes Abzeichen";Frw. Feuerwehr Betziesdorf 1882;1;0010-betziesdorf.jpg;2026-11-08;Sammelfoto 1
+0011;Siegen;;Siegen-Wittgenstein;Arnsberg;Nordrhein-Westfalen;"Stadtwappen Siegen (Stadtmauer, Löwe); schwarzes Abzeichen";Feuerwehr Siegen;1;0011-siegen.jpg;2026-11-08;Sammelfoto 1
+0012;Frankfurt am Main;;kreisfreie Stadt;Darmstadt;Hessen;"weißer Adler auf Rot; schwarzes ovales Abzeichen";Freiw. Feuerwehr Frankfurt a. M.;1;0012-frankfurt-am-main.jpg;2026-11-08;"Freiwillige Feuerwehr; Sammelfoto 1"
+0013;Gera;;kreisfreie Stadt;;Thüringen;"goldener Löwe auf Schwarz; schwarzes Abzeichen";Freiwillige Feuerwehr Gera;1;0013-gera.jpg;2026-11-08;Sammelfoto 1
+0014;Dresden;;kreisfreie Stadt;;Sachsen;"gespalten: schwarzer Löwe / schwarze Pfähle auf Gold; hellblaues Abzeichen";Freiwillige Feuerwehr Dresden;1;0014-dresden.jpg;2026-11-08;Sammelfoto 1
+0015;Pforzheim;;kreisfreie Stadt;Karlsruhe;Baden-Württemberg;"rot-gold-blau schräg geteilt; rundes Abzeichen";Freiw. Feuerwehr Pforzheim;1;0015-pforzheim.jpg;2026-11-08;Sammelfoto 1
+0016;Stuttgart;;kreisfreie Stadt;Stuttgart;Baden-Württemberg;"schwarzes Pferd auf Gold; rundes Abzeichen";Freiw. Feuerwehr Stuttgart;1;0016-stuttgart.jpg;2026-11-08;Sammelfoto 1
+0017;Frankfurt am Main;;kreisfreie Stadt;Darmstadt;Hessen;"weißer Adler auf Rot; hellblaues ovales Abzeichen";Berufsfeuerwehr Frankfurt a. M.;1;0017-frankfurt-am-main-berufsfeuerwehr.jpg;2026-11-08;"Berufsfeuerwehr – eigenes Abzeichen neben FF Frankfurt (0012); Sammelfoto 1"
+0018;Samtgemeinde Grafschaft Hoya;;Nienburg/Weser;;Niedersachsen;schwarze Bärentatzen auf Gold über Wellen;Freiwillige Feuerwehr Samtgemeinde Grafschaft Hoya;1;0018-samtgemeinde-grafschaft-hoya.jpg;2026-11-08;Sammelfoto 1
+0019;Bad Wildungen;;Waldeck-Frankenberg;Kassel;Hessen;"goldener Stern auf Schwarz; rundes Abzeichen";Freiw. Feuerwehr Bad Wildungen;1;0019-bad-wildungen.jpg;2026-11-08;Sammelfoto 1
+0020;Lohr a. Main;;Main-Spessart;Unterfranken;Bayern;rot-gold gestreift mit blauem Wellenband;Freiwillige Feuerwehr Lohr a. Main;1;0020-lohr-a-main.jpg;2026-11-08;Sammelfoto 1
+0021;Bischofsgrün;;Bayreuth;Oberfranken;Bayern;weiß-blaue Rauten, Blume auf Blau;Freiwillige Feuerwehr Bischofsgrün;1;0021-bischofsgruen.jpg;2026-11-08;Sammelfoto 1
+0022;Vohenstrauß;;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;weißer Strauß (Vogel), Rot-Blau;Freiwillige Feuerwehr Vohenstrauß;1;0022-vohenstrauss.jpg;2026-11-08;Sammelfoto 1
+0023;Petersaurach;Wicklesgreuth;Ansbach;Mittelfranken;Bayern;Schlüssel und Ähre, Rot-Gold;Freiwillige Feuerwehr Wickelsgreuth;1;0023-wicklesgreuth.jpg;2026-11-08;"Schreibweise auf Abzeichen: Wickelsgreuth; Sammelfoto 1"
+0024;Dachau;;Dachau;Oberbayern;Bayern;Stadtwappen Dachau;Freiwillige Feuerwehr Stadt Dachau;1;0024-dachau.jpg;2026-11-08;Sammelfoto 1
+0025;Eichstätt;;Eichstätt;Oberbayern;Bayern;Stadtmauer mit Toren und Baum;Freiwillige Feuerwehr Eichstätt-Stadt;1;0025-eichstaett.jpg;2026-11-08;Sammelfoto 1
+0026;Steinbach a. Wald;;Kronach;Oberfranken;Bayern;Kirche/Ortsansicht auf Blau;Freiwillige Feuerwehr Steinbach a. Wald;1;0026-steinbach-a-wald.jpg;2026-11-08;Sammelfoto 1
+0027;Marktredwitz;;Wunsiedel i. Fichtelgebirge;Oberfranken;Bayern;"schwarzer Adler über Rad, Gold; rundes Abzeichen";Freiw. Feuerwehr Marktredwitz;1;0027-marktredwitz.jpg;2026-11-08;Sammelfoto 1
+0028;Eckersdorf;Donndorf;Bayreuth;Oberfranken;Bayern;goldener Löwe über weiß-blauen Rauten und Rot-Silber-Schach (Wappen Eckersdorf);Freiwillige Feuerwehr Donndorf;1;0028-donndorf.jpg;2026-11-08;"Zuordnung über gleiches Wappen wie Oberwaiz (0042); nicht Donndorf (Thüringen); Sammelfoto 1"
+0029;Sand a. Main;;Haßberge;Unterfranken;Bayern;Fisch über Korb, Gold-Rot;Freiwillige Feuerwehr Sand a. Main;1;0029-sand-a-main.jpg;2026-11-08;Sammelfoto 1
+0030;Wettringen;;Ansbach;Mittelfranken;Bayern;Burg über grünem Berg mit Wellenbalken, Schlüssel und Schwert;Freiwillige Feuerwehr Wettringen;1;0030-wettringen.jpg;2026-11-08;"nicht Wettringen (NRW); Sammelfoto 1"
+0031;Vaterstetten;Neufarn;Ebersberg;Oberbayern;Bayern;Lindenblatt, Blau-Gold (Wappen Vaterstetten);Freiwillige Feuerwehr Neufarn;1;0031-neufarn.jpg;2026-11-08;"nicht Neufahrn b. Freising; Sammelfoto 1"
+0032;Vaterstetten;Purfing;Ebersberg;Oberbayern;Bayern;Lindenblatt, Blau-Gold (Wappen Vaterstetten);Freiwillige Feuerwehr Purfing;1;0032-purfing.jpg;2026-11-08;Sammelfoto 1
+0033;Vaterstetten;Baldham;Ebersberg;Oberbayern;Bayern;Lindenblatt, Blau-Gold (Wappen Vaterstetten);Freiwillige Feuerwehr Baldham;1;0033-baldham.jpg;2026-11-08;Sammelfoto 1
+0034;Vaterstetten;Weißenfeld;Ebersberg;Oberbayern;Bayern;Lindenblatt, Blau-Gold (Wappen Vaterstetten);Freiwillige Feuerwehr Weissenfeld;1;0034-weissenfeld.jpg;2026-11-08;Sammelfoto 1
+0035;Vaterstetten;Parsdorf-Hergolding;Ebersberg;Oberbayern;Bayern;Lindenblatt, Blau-Gold (Wappen Vaterstetten);Freiwillige Feuerwehr Parsdorf-Hergolding;1;0035-parsdorf-hergolding.jpg;2026-11-08;Sammelfoto 1
+0036;Warmensteinach;;Bayreuth;Oberfranken;Bayern;Gabel über Tannen, Grün-Silber;Freiwillige Feuerwehr Warmensteinach;1;0036-warmensteinach.jpg;2026-11-08;Sammelfoto 1
+0037;Freihung;Seugast;Amberg-Sulzbach;Oberpfalz;Bayern;Löwe über Schlägel und Eisen, weiß-blaue Rauten;Freiwillige Feuerwehr Seugast;1;0037-seugast.jpg;2026-11-08;Sammelfoto 2
+0038;Remagen;;Ahrweiler;;Rheinland-Pfalz;"Landeswappen Rheinland-Pfalz mit Krone; dunkelblaues Abzeichen";Freiwillige Feuerwehr Stadt Remagen;1;0038-remagen.jpg;2026-11-08;Sammelfoto 2
+0039;Mindelheim;;Unterallgäu;Schwaben;Bayern;Glocke über Wellen;Freiwillige Feuerwehr Mindelheim;1;0039-mindelheim.jpg;2026-11-08;Sammelfoto 2
+0040;Margetshöchheim;;Würzburg;Unterfranken;Bayern;Kreuz über weißem Schwan auf Rot;Freiwillige Feuerwehr Margetshöchheim;1;0040-margetshoechheim.jpg;2026-11-08;Sammelfoto 2
+0041;Frontenhausen;;Dingolfing-Landau;Niederbayern;Bayern;Kirche auf Blau;Freiwillige Feuerwehr Frontenhausen;1;0041-frontenhausen.jpg;2026-11-08;Sammelfoto 2
+0042;Eckersdorf;Oberwaiz;Bayreuth;Oberfranken;Bayern;goldener Löwe über weiß-blauen Rauten und Rot-Silber-Schach (Wappen Eckersdorf);Freiwillige Feuerwehr Oberwaiz;1;0042-oberwaiz.jpg;2026-11-08;Sammelfoto 2
+0043;Jandelsbrunn;Hintereben;Freyung-Grafenau;Niederbayern;Bayern;Fisch und Eichhörnchen auf Silber;Freiwillige Feuerwehr Hintereben;1;0043-hintereben.jpg;2026-11-08;"einziges Hintereben in Bayern; bis 1978 eigene Gemeinde; Sammelfoto 2"
+0044;Haibach;Grünmorsbach;Aschaffenburg;Unterfranken;Bayern;grüner Ast und Rad;Freiwillige Feuerwehr Grünmorsbach;1;0044-gruenmorsbach.jpg;2026-11-08;Sammelfoto 2
+0045;Laberweinting;;Straubing-Bogen;Niederbayern;Bayern;Turm, Rot-Weiß-Blau;Freiwillige Feuerwehr Laberweinting;1;0045-laberweinting.jpg;2026-11-08;Sammelfoto 2
+0046;Maxhütte-Haidhof;Ponholz;Schwandorf;Oberpfalz;Bayern;Tanne und Schlägel/Eisen;Freiwillige Feuerwehr Ponholz;1;0046-ponholz.jpg;2026-11-08;Sammelfoto 2
+0047;Wittislingen;;Dillingen a. d. Donau;Schwaben;Bayern;silbernes Tier mit Schrägbalken auf Rot;Freiwillige Feuerwehr Markt Wittislingen;1;0047-wittislingen.jpg;2026-11-08;Sammelfoto 2
+0048;Neusorg;Riglasreuth;Tirschenreuth;Oberpfalz;Bayern;Tier auf Gold mit schwarzem Schrägbalken;Freiwillige Feuerwehr Riglasreuth;1;0048-riglasreuth.jpg;2026-11-08;Sammelfoto 2
+0049;Rain;;Donau-Ries;Schwaben;Bayern;weiß-blaue Rauten unter Löwe;Freiwillige Feuerwehr Stadt Rain;1;0049-rain.jpg;2026-11-08;"„Stadt“ → Rain am Lech, nicht Rain (Niederbayern); Sammelfoto 2"
+0050;Thurmansbang;;Freyung-Grafenau;Niederbayern;Bayern;Tanne und Turm;Freiwillige Feuerwehr Thurmansbang;1;0050-thurmansbang.jpg;2026-11-08;Sammelfoto 2
+0051;Zell im Fichtelgebirge;;Hof;Oberfranken;Bayern;geviert: Rot-Silber-Schach und Blätter;Freiwillige Feuerwehr Markt Zell;1;0051-zell-im-fichtelgebirge.jpg;2026-11-08;"nicht Zell a. Main; Sammelfoto 2"
+0052;Gessertshausen;Margertshausen;Augsburg;Schwaben;Bayern;Kreuz und Ähren, Gold-Blau;Freiwillige Feuerwehr Margertshausen;1;0052-margertshausen.jpg;2026-11-08;Sammelfoto 2
+0053;Tröstau;;Wunsiedel i. Fichtelgebirge;Oberfranken;Bayern;Hämmer auf Rot-Weiß;Freiwillige Feuerwehr Tröstau;1;0053-troestau.jpg;2026-11-08;Sammelfoto 2
+0054;Grafenwöhr;Hütten;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;"weiß-blaue Rauten und goldener Löwe; blaues Abzeichen";Freiwillige Feuerwehr Hütten;1;0054-huetten.jpg;2026-11-08;"vermutlich; Alternativen: Hütten (Ahorntal), Hütten (Warmensteinach) – Oberfranken; Hütten (Oberstaufen) – Schwaben; Sammelfoto 2"
+0055;Kirchroth;Obermiethnach;Straubing-Bogen;Niederbayern;Bayern;Rauten mit rotem Schrägbalken;Freiwillige Feuerwehr Obermiethnach;1;0055-obermiethnach.jpg;2026-11-08;Sammelfoto 2
+0056;Trostberg;;Traunstein;Oberbayern;Bayern;Burg auf Grün;Freiwillige Feuerwehr Stadt Trostberg;1;0056-trostberg.jpg;2026-11-08;Sammelfoto 2
+0057;Kaltenbrunn;;Neustadt a. d. Waldnaab;Oberpfalz;Bayern;roter Brunnen auf Silber;Freiwillige Feuerwehr Markt Kaltenbrunn;1;0057-kaltenbrunn.jpg;2026-11-08;Sammelfoto 2
+0058;Glashütten;;Bayreuth;Oberfranken;Bayern;Löwe und Mauer, Schwarz-Silber;Freiwillige Feuerwehr Glashütten;1;0058-glashuetten.jpg;2026-11-08;"nicht Glashütten (Hessen); Sammelfoto 2"
+0059;Kösching;;Eichstätt;Oberbayern;Bayern;weiß-blaue Rauten und Baum;Freiwillige Feuerwehr Markt Kösching;1;0059-koesching.jpg;2026-11-08;Sammelfoto 2
+0060;Pegnitz;;Bayreuth;Oberfranken;Bayern;Adler, Schach und Fisch;Freiwillige Feuerwehr Stadt Pegnitz;1;0060-pegnitz.jpg;2026-11-08;Sammelfoto 2
+0061;Kaufbeuren;Oberbeuren;kreisfreie Stadt;Schwaben;Bayern;weißer Turm auf Rot;Freiwillige Feuerwehr Oberbeuren;1;0061-oberbeuren.jpg;2026-11-08;Sammelfoto 2
+0062;Burglengenfeld;;Schwandorf;Oberpfalz;Bayern;Figur über Wasser, Burg;Freiwillige Feuerwehr Burglengenfeld;1;0062-burglengenfeld.jpg;2026-11-08;Sammelfoto 2
+0063;Bad Alexandersbad;;Wunsiedel i. Fichtelgebirge;Oberfranken;Bayern;Brunnentempel auf Schwarz;Freiwillige Feuerwehr Bad Alexandersbad;1;0063-bad-alexandersbad.jpg;2026-11-08;Sammelfoto 2
+0064;Kissing;;Aichach-Friedberg;Schwaben;Bayern;Kreuz über Zahnrad;Freiwillige Feuerwehr Kissing;1;0064-kissing.jpg;2026-11-08;Sammelfoto 2
+0065;Petershausen;;Dachau;Oberbayern;Bayern;Fisch und Pflug, Schwarz-Silber;Freiwillige Feuerwehr Petershausen;1;0065-petershausen.jpg;2026-11-08;Sammelfoto 2
+0066;Dietmannsried;Überbach;Oberallgäu;Schwaben;Bayern;weißer Pferdekopf auf Blau;Freiwillige Feuerwehr Überbach;1;0066-ueberbach.jpg;2026-11-08;"einziges Überbach in Bayern; Sammelfoto 2"
+0067;Edermünde;;Schwalm-Eder-Kreis;Kassel;Hessen;"silberne Gabel mit Kleeblatt auf Rot; dunkelblaues ovales Abzeichen";Freiw. Feuerwehr Edermünde;1;0067-edermuende.jpg;2026-11-08;Sammelfoto 2
+0068;;;;;;"Hand füllt Blaulicht nach; rundes Abzeichen";Heute schon das Blaulichtwasser aufgefüllt?;1;0068-sonderabzeichen-blaulichtwasser.jpg;2026-11-08;"Sonderabzeichen ohne Ort (Spaßabzeichen); Sammelfoto 2"
