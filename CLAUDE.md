@@ -17,7 +17,7 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 | `ortsteil` | falls das Abzeichen zu einer Ortsteilwehr gehört, sonst leer |
 | `landkreis` | Landkreis bzw. kreisfreie Stadt |
 | `regierungsbezirk` | nur in Bayern (Oberbayern, Niederbayern, Oberpfalz, Oberfranken, Mittelfranken, Unterfranken, Schwaben); in anderen Ländern leer oder der dortige Regierungsbezirk |
-| `bundesland` | Bundesland; bei ausländischen Abzeichen das Land |
+| `bundesland` | Bundesland; bei ausländischen Abzeichen das Land (z. B. `USA`, `Ungarn`) |
 | `wappen` | kurze Wappenbeschreibung (Farben, Figuren), damit gleichnamige Orte unterscheidbar sind |
 | `aufschrift` | Text auf dem Abzeichen, soweit lesbar |
 | `anzahl` | wie viele Exemplare vorhanden sind (Zahl, Standard 1) |
@@ -25,6 +25,12 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 | `erfasst` | Datum der Aufnahme in die Liste (JJJJ-MM-TT) |
 | `notiz` | optional, z. B. „doppelt vorhanden“, „Sonderabzeichen“ |
 | `ablage` | wo das Abzeichen physisch liegt, z. B. `Ordner 1 „FFW Bayern m. Wappen“`; Fotos der Ordnerrücken in `fotos/ordner/`. Nennt Daniel beim Erfassen einen Ordner, hier eintragen. |
+| `kategorie` | `Deutschland` (Gemeinde-, Stadt-, Kreis- und KatS-Abzeichen), `Werkfeuerwehr` (Werk- und Betriebsfeuerwehren, auch Verbände wie AGBB), `Ausland` (alles außerhalb Deutschlands, auch US-Streitkräfte in Deutschland), `Sonderabzeichen` (ohne Ort) |
+
+### Felder bei Werkfeuerwehr und Ausland
+
+- **Werkfeuerwehr**: `gemeinde` = Ort des Werks, `ortsteil` = Firma (z. B. `Gersthofen` / `Clariant`), Landkreis/Bezirk/Bundesland wie bei Gemeinden. Auf der Webseite eine gemeinsame Gruppe „Werkfeuerwehren“, unterteilt nach Bundesland.
+- **Ausland**: `bundesland` = Land, `regierungsbezirk` = Bundesstaat/Provinz/Region (z. B. `New York`, `Komitat Tolna`, `Ontario`), `landkreis` = County/Bezirk falls bekannt. US-Militärfeuerwehren in Deutschland: `bundesland` = `USA`, `regierungsbezirk` = `US-Streitkräfte`, deutscher Standort in `notiz`.
 
 ## Ablauf bei einem neuen Foto
 
