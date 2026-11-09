@@ -25,7 +25,7 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 | `erfasst` | Datum der Aufnahme in die Liste (JJJJ-MM-TT) |
 | `notiz` | optional, z. B. „doppelt vorhanden“, „Sonderabzeichen“ |
 | `ablage` | wo das Abzeichen physisch liegt, z. B. `Ordner 1 „FFW Bayern m. Wappen“`; Fotos der Ordnerrücken in `fotos/ordner/`. Nennt Daniel beim Erfassen einen Ordner, hier eintragen. |
-| `kategorie` | `Deutschland` (Gemeinde-, Stadt-, Kreis- und KatS-Abzeichen), `Werkfeuerwehr` (Werk- und Betriebsfeuerwehren, auch Verbände wie AGBB), `Ausland` (alles außerhalb Deutschlands, auch US-Streitkräfte in Deutschland), `Sonderabzeichen` (ohne Ort) |
+| `kategorie` | `Deutschland` (Gemeinde-, Stadt-, Kreis- und KatS-Abzeichen), `Werkfeuerwehr` (Werk- und Betriebsfeuerwehren, auch Verbände wie AGBB), `Ausland` (alles außerhalb Deutschlands, auch US-Streitkräfte in Deutschland), `Sonstige Organisationen` (THW, Polizei-/Ortspolizeibehörden, Werkschutz, Selbstschutz, Reservisten, DDR), `Sonderabzeichen` (ohne Ort, Werbung, Vereine, Spaßabzeichen, Aufkleber) |
 
 ### Felder bei Werkfeuerwehr und Ausland
 
