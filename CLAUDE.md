@@ -53,6 +53,7 @@ Dieses Repo ist das Second Brain für die Feuerwehr-Ärmelabzeichen-Sammlung ein
 - Daniel gibt die Anzahl beim Erfassen im Prompt mit (z. B. „3×“, „Anzahl 2“). Ohne Angabe gilt 1.
 - Ist ein Abzeichen schon vorhanden und Daniel sagt „aufnehmen“ bzw. „noch eins“, wird `anzahl` um die genannte Zahl (sonst 1) erhöht, keine neue Zeile.
 - Das bestehende Foto bleibt; ein neues Foto nur ersetzen, wenn Daniel es sagt.
+- Ordnerfotos: Gezählt wird nur das vorne sichtbare Abzeichen je Fach. Was dahinter steckt bzw. spiegelverkehrt durchscheint, ist die Rückseite (bzw. die Rückseite des Blatts) und wird nicht gezählt.
 
 ## Eingang (Fotos von der Webseite)
 
